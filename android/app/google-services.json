@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654509187366",
+    "project_id": "local-lens-ce688",
+    "storage_bucket": "local-lens-ce688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654509187366:android:8d6a06cbc09d626c2f21e7",
+        "android_client_info": {
+          "package_name": "com.example.local_lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryKD2CsAxfzKbltErSbsAVIEfmgCVySo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
